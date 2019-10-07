@@ -21,7 +21,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging part was figuring out responsiveness for various screen sizes, but other than that everything else was pretty straightforward and understandable.
 
 ## License
 
