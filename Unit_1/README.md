@@ -17,9 +17,6 @@ The following **required** functionality is complete:
 * [X] Images are dynamic. They change size accordingly.
 * [ ] Impleted hamburger menu when switched to mobile view
 
-<!-- The following **optional** features are implemented: 
-* [X] UI animations
-
 ## Notes
 
 Had some issues with colors not showing.
